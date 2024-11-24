@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
-   <Group
-      location = "container:"
-      name = "Packages">
-      <FileRef
-         location = "group:Packages/FormValidation">
-      </FileRef>
-   </Group>
    <FileRef
-      location = "group:FormExample.xcodeproj">
+      location = "group:">
+   </FileRef>
+   <FileRef
+      location = "group:Examples/FormExample.xcodeproj">
    </FileRef>
 </Workspace>

@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 60;
+	objectVersion = 56;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -246,7 +246,6 @@
 			mainGroup = 671022F52C917F960098223D;
 			packageReferences = (
 				6716DF0F2C91E44700FE3E95 /* XCRemoteSwiftPackageReference "swift-composable-architecture" */,
-				67F628C32C9D702B005BD486 /* XCLocalSwiftPackageReference "Packages/FormValidation" */,
 			);
 			productRefGroup = 671022FF2C917F970098223D /* Products */;
 			projectDirPath = "";
@@ -563,13 +562,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCLocalSwiftPackageReference section */
-		67F628C32C9D702B005BD486 /* XCLocalSwiftPackageReference "Packages/FormValidation" */ = {
-			isa = XCLocalSwiftPackageReference;
-			relativePath = Packages/FormValidation;
-		};
-/* End XCLocalSwiftPackageReference section */
 
 /* Begin XCRemoteSwiftPackageReference section */
 		6716DF0F2C91E44700FE3E95 /* XCRemoteSwiftPackageReference "swift-composable-architecture" */ = {
